@@ -1,1 +1,4 @@
-# uat-test-tokped
+## Manual testing of the Tokopedia Web-based Application using UAT
+This project involved conducting User Acceptance Testing (UAT) on the Tokopedia web-based application, engaging a substantial sample of 103 respondents. The UAT process focused on evaluating the application's functionality, usability, and overall user experience from the end-user perspective. Participants, likely representing various user demographics, were tasked with exploring and interacting with key features of the Tokopedia platform, such as product browsing, searching, purchasing processes, seller interactions, and account management. Through this comprehensive testing approach, real-world users provided valuable feedback on the application's performance, ease of use, and alignment with user expectations. 
+
+Link to Project: https://docs.google.com/spreadsheets/d/1Yw6AvTp5kOkr2RPTrcq9QevlsgPR4SIkvRKDnd6LHzY/edit?usp=sharing
